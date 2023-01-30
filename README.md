@@ -101,18 +101,13 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>ES6
     </td>  
-  </tr>
-  <td align="center" width="100">
+    <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>C#
     </td>  
-  
-  
-<tr>
-    
-  </tr>
+  </tr> 
 </table>
 
 ## 💡 Mis estadisticas en GitHub
