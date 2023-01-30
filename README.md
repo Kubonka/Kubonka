@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="auto" src="Banner.png">
+<img align="center" alt="banner" width="auto" src="cerosyunos.jpg">
 
 <h1 align="center">¡Hola! Yo soy Alberto Martinez 💻 Full-Stack developer</h1>
 
