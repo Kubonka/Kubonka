@@ -62,6 +62,13 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>Redux
     </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="50" height="50" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    
   </tr>
   
   <tr>        
