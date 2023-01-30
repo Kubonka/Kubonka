@@ -66,7 +66,7 @@ https://pf-techbunny-lake.vercel.app
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="50" height="50" alt="Redux" />
       </a>
-      <br>Redux
+      <br>Unity
     </td>
     
   </tr>
