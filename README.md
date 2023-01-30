@@ -119,11 +119,11 @@ https://pf-techbunny-lake.vercel.app
 
 ## 💡 Mis estadisticas en GitHub
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielGomez74&theme=tokyonight&hide_border=true"/>
-    <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubonka&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubonka&theme=tokyonight&hide_border=true"/>
+    <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubonka&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ## 📩 **Pueden contactarme en ⤵**
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:ezequiel.canob@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-gomez/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:srbetito85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-martinez-kubonka/)
