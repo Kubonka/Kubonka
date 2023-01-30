@@ -106,7 +106,7 @@ https://pf-techbunny-lake.vercel.app
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>ES6
+      <br>C#
     </td>  
   
   
