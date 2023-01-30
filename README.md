@@ -64,9 +64,7 @@ https://pf-techbunny-lake.vercel.app
     </td>
   </tr>
   
-  <tr>
-    
-    </td>
+  <tr>        
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
@@ -85,8 +83,6 @@ https://pf-techbunny-lake.vercel.app
    </a>
   <br>Github
    </td>
-  </tr>
-<tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
@@ -105,6 +101,9 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>ES6
     </td>  
+  </tr>
+<tr>
+    
   </tr>
 </table>
 
