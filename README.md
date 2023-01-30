@@ -43,10 +43,7 @@ https://pf-techbunny-lake.vercel.app
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Bootstrap
-    </td>        
-  </tr>
-  
-  <tr>
+    </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
@@ -65,6 +62,10 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>Redux
     </td>
+  </tr>
+  
+  <tr>
+    
     </td>
     <td align="center" width="100">
       <a href="#">
